@@ -9,3 +9,5 @@
 
 
 [![Video Label](http://img.youtube.com/vi/0gaTNLKtJvw/0.jpg)](https://youtu.be/0gaTNLKtJvw)
+
+{ % include embed/youtube.html id='0gaTNLKtJvw' % }
